@@ -1,2 +1,1 @@
-# SAP_AutoLogin_AU3
-01
+# SAP-GUI_AutoLogin_AU-a
